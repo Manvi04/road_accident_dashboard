@@ -1,5 +1,5 @@
 # road_accident_dashboard
-This interactive Power BI dashboard visualizes road accident data to provide key insights for decision-making and safety analysis. It includes the following features:
+This interactive dashboard visualizes road accident data to provide key insights for decision-making and safety analysis. It includes the following features:
 
 Total Casualties Overview: Displays the total number of casualties, categorized into fatal, serious, slight, and car-related casualties.
 Casualties by Vehicle Type: Breakdown of total casualties by vehicle type, such as cars, motorbikes, bicycles, buses, and more.
